@@ -1,3 +1,3 @@
 # AnimatorDemo
 
-![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+![image](https://github.com/LZRight123/AnimatorDemo/blob/master/AnimatorExcample/AnimatorExcample/AnimatorUML.jpg)
