@@ -69,7 +69,7 @@ extension ViewController {
         view.addSubview(view1)
         view.addSubview(view2)
         
-        
+       
 //        Animation.custom(duration: duration, closure: { $0.frame = CGRect(x: 200, y: 100, width: 70, height: 200) })
         Animator.animation(
             view1.animate(
